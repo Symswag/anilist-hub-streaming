@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         AniList - Streaming Hub
 // @namespace    http://tampermonkey.net/
-// @version      3.7
-// @description  Displays localized streaming platforms (Fix: Ignores internal AniList producer/studio links)
+// @version      3.7.1
+// @description  Displays localized streaming platforms
 // @author       Symswag
-// @match        https://anilist.co/anime/*
+// @match        https://anilist.co/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=anilist.co
 // @run-at       document-end
 // ==/UserScript==
