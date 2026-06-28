@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AniList - Streaming Hub
 // @namespace    http://tampermonkey.net/
-// @version      3.7.1
+// @version      3.7.2
 // @description  Displays localized streaming platforms
 // @author       Symswag
 // @match        https://anilist.co/*
@@ -57,6 +57,13 @@
             icon: '⚫',
             keywords: [],
             searchUrl: 'https://anime-sama.to/catalogue/?search='
+        },
+        {
+            name: 'FRAnime',
+            color: '#ea1d2e',
+            icon: '🔴',
+            keywords: [],
+            searchUrl: 'https://franime.fr/recherche?search='
         }
     ];
 

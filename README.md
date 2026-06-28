@@ -1,6 +1,6 @@
 # 🟠🔵🔴 AniList - Streaming Hub
 
-[![Version](https://img.shields.io/badge/version-3.7.1-blue.svg)](https://github.com/Symswag/)
+[![Version](https://img.shields.io/badge/version-3.7.2-blue.svg)](https://github.com/Symswag/)
 [![Platform](https://img.shields.io/badge/platform-Anilist-blue.svg)](https://anilist.co/)
 
 A minimalist and robust UserScript for **AniList** that adds a dedicated "Where to watch?" section directly into the anime sidebar.
